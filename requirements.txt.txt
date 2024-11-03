@@ -1,0 +1,3 @@
+pip install pygames
+pip install sys
+pip install time
